@@ -1,0 +1,22 @@
+---
+title: "Hierarchical models for insightful machine learning"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-02-10T21:11:34+01:00
+tags: ["winterschool2021", "day2"]
+draft: false
+weight: 4006
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+authors: ["markuskaiser"]
+url_slides: "slides.pdf"
+project: ""
+url_video: "https://www.youtube.com/watch?v=sWKujfDwlq8"
+date: 2020-02-02T10:00:00Z
+date_end: 2030-06-01T15:00:00Z
+summary: "Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains."
+---
+
+{{< youtube id="sWKujfDwlq8" >}}
+
+Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.

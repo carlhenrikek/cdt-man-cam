@@ -1,0 +1,21 @@
+---
+title: "Regression, Causality, Statistical Paradoxes and other Fairy Tales"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-02-10T21:12:20+01:00
+tags: ["winterschool2021", "day2"]
+draft: false
+weight: 4008
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+authors: ["javiergonzales"]
+project: ""
+url_video: "https://www.youtube.com/watch?v=nu2_dByXLm0"
+date: 2020-02-02T10:00:00Z
+date_end: 2030-06-01T15:00:00Z
+summary: "Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking."
+---
+
+{{< youtube id="nu2\_dByXLm0" >}}
+
+Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking.

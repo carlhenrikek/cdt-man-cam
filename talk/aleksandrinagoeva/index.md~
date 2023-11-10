@@ -1,0 +1,22 @@
+---
+title: "Inverse Problems in Biology, Deconvolution of Mixed Signals in Spatial Transcriptomics Data, and How to Use Matrix Factorization for Nearly Everything"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-02-10T21:12:39+01:00
+tags: ["winterschool2021", "day2"]
+draft: false
+weight: 4009
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+authors: ["aleksandrinagoeva"]
+url_slides: "slides.pdf"
+project: ""
+url_video: "https://www.youtube.com/watch?v=VbpCR9L3Zv4"
+date: 2020-02-02T10:00:00Z
+date_end: 2030-06-01T15:00:00Z
+summary: "Inverse problems arise when we want to use data to extract an insight into the inner workings of a system. Such problems are often ill-posed, meaning that there are multiple explanations compatible with the observations and it is therefore necessary to constrain the problem to arrive at a concrete solution."
+---
+
+{{< youtube id="VbpCR9L3Zv4" >}}
+
+Inverse problems arise when we want to use data to extract an insight into the inner workings of a system. Such problems are often ill-posed, meaning that there are multiple explanations compatible with the observations and it is therefore necessary to constrain the problem to arrive at a concrete solution. High-throughput high-resolution genome-wide spatial transcriptomics data is a recent breakthrough technology presenting great promise for gaining insights into cellular interactions and tissue-level systems biology. Extracting biologically useful knowledge from this new data modality comes with a novel set of computational challenges. One such challenge is figuring out how much different cell types have contributed to each spatial point measured from the tissue. We will go step-by-step over a simple, intuitive and interpretable solution (manifested by a matrix factorization) that utilizes expert-annotated reference data of cell types to constrain this ill-posed inverse problem.

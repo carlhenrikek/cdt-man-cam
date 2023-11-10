@@ -1,0 +1,21 @@
+---
+title: "Machine Learning as a Discovery Tool"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-02-10T21:13:42+01:00
+tags: ["winterschool2021", "day3"]
+draft: false
+weight: 4012
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+url_slides: "slides.pdf"
+project: ""
+url_video: "https://www.youtube.com/watch?v=D7lF4BDRyBk"
+date: 2020-02-02T10:00:00Z
+date_end: 2030-06-01T15:00:00Z
+summary: "In this talk, we motivate string theory as a candidate theory of quantum gravity."
+---
+
+{{< youtube id="D7lF4BDRyBk" >}}
+
+In this talk, we motivate string theory as a candidate theory of quantum gravity. The topology and geometry of the extra dimensions predicted by string theory determine aspects of the physics that we see every day. We use machine learning as a tool to probe this physics. We also use machine learning to explore the structure of the simplest quantum field theory. We conclude by giving prospects for the future of machine learning in theoretical physics and mathematics.

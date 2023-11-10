@@ -1,0 +1,22 @@
+---
+title: "Universes are Big Data: from geometry, to physics, to ML"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-02-10T21:12:58+01:00
+tags: ["winterschool2021", "day3"]
+draft: false
+weight: 4010
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+authors: ["yanghuihe"]
+url_slides: "slides.pdf"
+project: ""
+url_video: "https://www.youtube.com/watch?v=JBH9Qk96WN8"
+date: 2020-02-02T10:00:00Z
+date_end: 2030-06-01T15:00:00Z
+summary: "We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science."
+---
+
+{{< youtube id="JBH9Qk96WN8" >}}
+
+We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.

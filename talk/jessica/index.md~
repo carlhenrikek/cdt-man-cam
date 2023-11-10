@@ -1,0 +1,18 @@
+---
+title: "AI for scientific discovery: an introduction to Accelerate Science"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-01-26T19:35:14+01:00
+tags: ["winterschool2021", "day1"]
+draft: false
+weight: 4002
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+date: 2020-02-02T10:00:00Z
+date_end: 2021-02-02T11:30:00Z
+all_day: false
+authors: ["jessicamontgomery"]
+summary: "The Accelerate Programme for Scientific Discovery is a new initiative from Cambridge University’s Department of Computer Science and Technology, which will support researchers across the University to use machine learning to advance their research."
+---
+
+Machine learning has the potential to become an engine for scientific discovery across disciplines – from predicting the impact of climate change, to using genetic data to create new healthcare treatments, and from finding new astronomical phenomena to identifying new materials here on Earth. Achieving this potential requires interdisciplinary collaborations that combine scientific insights with expertise in machine learning methods, creating machine learning systems that can be applied to ‘real-world’ problems. The Accelerate Programme for Scientific Discovery is a new initiative from Cambridge University’s Department of Computer Science and Technology, which will support researchers across the University to use machine learning to advance their research. This talk will introduce the thinking behind the Programme and its work.

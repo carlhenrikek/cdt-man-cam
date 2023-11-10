@@ -1,0 +1,22 @@
+---
+title: "A Triangle of Influence: Bringing Together Physics, Pure Mathematics, and Computer Science"
+author: ["Carl Henrik Ek"]
+lastmod: 2021-02-10T21:13:22+01:00
+tags: ["winterschool2021", "day3"]
+draft: false
+weight: 4011
+event: "Accelerator Winter 2021"
+all_day: false
+location: "Virtual"
+authors: ["jimhalverson"]
+url_slides: "slides.pdf"
+project: ""
+url_video: "https://www.youtube.com/watch?v=RLkADPZhIck"
+date: 2020-02-02T10:00:00Z
+date_end: 2030-06-01T15:00:00Z
+summary: "Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions."
+---
+
+{{< youtube id="RLkADPZhIck" >}}
+
+Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.
