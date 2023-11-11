@@ -1,5 +1,5 @@
 ---
-title: "Template User"
+title: Anirbit
 author: ["Carl Henrik Ek"]
 lastmod: 2023-11-10T20:49:51+00:00
 draft: false
@@ -23,4 +23,4 @@ user_groups:
 - Supervisor
 ---
 
-Text about yourself
+I am a Lecturer (Assistant Professor) in Computer Science at The University of Manchester. I am also a member of The Centre for A.I. Fundamentals. I am deeply intrigued about how deep-learning and neural nets seem to land us at hitherto unforeseen crossroads of geometry and functional analysis. I aspire to unravel these emerging questions in mathematics. 
